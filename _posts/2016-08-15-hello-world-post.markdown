@@ -4,7 +4,7 @@ title:      "Lorem Ipsum"
 subtitle:   "Không có ai muốn khổ đau cho chính mình, muốn tìm kiếm về nó và muốn có nó, bởi vì nó là sự đau khổ..."
 date:       2016-08-15 12:00:00
 author:     "Lipsum.com"
-header-img: "assets/img/black-and-white-africa-animals-wilderness.jpg"
+header-img: "{{site.url}}assets/img/black-and-white-africa-animals-wilderness.jpg"
 ---
 
 Lorem Ipsum là gì?
