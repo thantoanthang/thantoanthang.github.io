@@ -1,6 +1,6 @@
 ---
-published: true
 ---
+
 ## Hello World - This is a test article
 
 **Lorem Ipsum là gì?**

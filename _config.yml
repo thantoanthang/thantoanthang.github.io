@@ -1,25 +1,33 @@
-# Site settings
+---
 title: Toan Thang's Home
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 header-img: img/home-bg.jpg
 email: thantoanthang@gmail.com
 copyright_name: Than Toan Thang
-description: "Sharing is learning"
-baseurl: ""
-url: "http://thantoanthang.com"
+description: Sharing is learning
+baseurl: ''
+url: http://thantoanthang.com
 twitter_username: thantoanthang
 github_username: thantoanthang
 facebook_username: 
-email_username:  thantoanthang@gmail.com
-
-# Google Analytics
-# To enable google analytics, uncomment below line with a valid Google Tracking ID
-# google_tracking_id:
-
-# Build settings
+email_username: thantoanthang@gmail.com
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-
-gems: [jekyll-paginate, jekyll-feed]
+exclude:
+- less
+- node_modules
+- Gruntfile.js
+- package.json
+- README.md
+gems:
+- jekyll-paginate
+- jekyll-feed
