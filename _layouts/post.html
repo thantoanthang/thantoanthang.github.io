@@ -46,9 +46,27 @@ comments: true
     </div>
 </article>
 
-<!-- For Disqus -->
-
 {% if site.disqus.shortname %}
-  {% include disqus_comments.html %}
+
+<article>
+  <div id="disqus" class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      
+        <h2 class="section-heading"> Bình luận </h2>
+    
+        <!-- For Disqus -->  
+        <script id="dsq-count-scr" src="//thantoanthang-com.disqus.com/count.js" async></script>
+
+        {% include disqus_comments.html %}
+
+      </div>
+    </div>
+  </div>
+</article>
+
 {% endif %}
+
+
+
 
