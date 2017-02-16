@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 <!-- Post Header -->
@@ -27,8 +28,6 @@ layout: default
 
 				{{ content }}
 
-                <hr>
-
                 <ul class="pager">
                     {% if page.previous.url %}
                     <li class="previous">
@@ -47,4 +46,9 @@ layout: default
     </div>
 </article>
 
-<hr>
+<!-- For Disqus -->
+
+{% if site.disqus.shortname %}
+  {% include disqus_comments.html %}
+{% endif %}
+
