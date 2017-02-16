@@ -1,10 +1,11 @@
 ---
-layout:     post
-title:      "Lorem Ipsum"
-subtitle:   "Không có ai muốn khổ đau cho chính mình, muốn tìm kiếm về nó và muốn có nó, bởi vì nó là sự đau khổ..."
-date:       2016-08-15 12:00:00
-author:     "Lipsum.com"
-header-img: "img/black-and-white-africa-animals-wilderness.jpg"
+title: Lorem Ipsum
+date: 2016-08-15 12:00:00 Z
+layout: post
+subtitle: Không có ai muốn khổ đau cho chính mình, muốn tìm kiếm về nó và muốn có
+  nó, bởi vì nó là sự đau khổ...
+author: Lipsum.com
+header-img: img/black-and-white-africa-animals-wilderness.jpg
 ---
 
 Lorem Ipsum là gì?
