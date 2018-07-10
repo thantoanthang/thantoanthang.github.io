@@ -1,0 +1,2 @@
+webpackJsonp([0],{LGUT:function(t,e){},qbhH:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("h1",[this._v("Admin Page")]),this._v(" "),e("button",{staticClass:"btn btn-success",attrs:{type:"button"}},[this._v("Click me")])])}]};var i=n("VU/8")({},s,!1,function(t){n("LGUT")},null,null);e.default=i.exports}});
+//# sourceMappingURL=0.7b1d3996e77a5044c9ce.js.map
