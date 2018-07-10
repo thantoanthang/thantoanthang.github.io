@@ -9,15 +9,15 @@ collections:
     title: Uploads
     output: true
 header-img: img/home-bg.jpg
-email: thantoanthang@gmail.com
+email: 
 copyright_name: Than Toan Thang
 description: Sharing is learning
 baseurl: ''
-url: http://thantoanthang.com
-twitter_username: thantoanthang
-github_username: thantoanthang
+url: https://thantoanthang.github.io
+twitter_username: 
+github_username: 
 facebook_username: 
-email_username:  thantoanthang@gmail.com
+email_username:
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
